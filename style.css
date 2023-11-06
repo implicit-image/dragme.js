@@ -1,0 +1,44 @@
+
+body {
+    height: 100%;
+    background-color: lightgreen;
+}
+
+nav {
+    width: 80%;
+    backround-color: lightblue;
+}
+
+main {
+    width: 80%;
+    height: 80%;
+}
+
+div {
+    width: 100%;
+}
+#box {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+#second-box {
+
+}
+.draggable {
+    position: fixed;
+
+}
+
+
+.click-to-drag {}
+
+.dec1 {
+    width: 20%;
+}
+
+.dec2 {
+    background-color: lightcyan;
+    padding: 1em;
+}
